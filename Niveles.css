@@ -1,0 +1,132 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1339px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 945px;
+  height: 210px;
+  margin: -70px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 927px;
+  height: 477px;
+  margin: -96px auto 0;
+}
+
+.u-section-1 .u-image-3 {
+  width: 927px;
+  height: 477px;
+  margin: -136px auto 0;
+}
+
+.u-section-1 .u-image-4 {
+  width: 927px;
+  height: 477px;
+  margin: -139px auto 60px;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 968px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 160px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 720px;
+    height: 370px;
+    margin-top: -46px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 720px;
+    height: 370px;
+    margin-top: -29px;
+  }
+
+  .u-section-1 .u-image-4 {
+    width: 720px;
+    height: 370px;
+    margin-top: -32px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 652px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 120px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 278px;
+    margin-top: -6px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 540px;
+    height: 278px;
+    margin-top: 63px;
+  }
+
+  .u-section-1 .u-image-4 {
+    width: 540px;
+    height: 278px;
+    margin-top: 60px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 299px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 76px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 175px;
+    margin-top: 38px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 340px;
+    height: 175px;
+  }
+
+  .u-section-1 .u-image-4 {
+    width: 340px;
+    height: 175px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 400px;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 254px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 145px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 23px;
+  }
+}
